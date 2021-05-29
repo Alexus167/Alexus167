@@ -1,6 +1,9 @@
 ### Hi, I'm Alex 👋
 ![](https://user-images.githubusercontent.com/46390937/120038829-3ea97200-bfda-11eb-8978-17d40b475415.jpg)
 
+### Connect with me on <a href="https://www.linkedin.com/in/alxmendez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
 <!--
 **Alexus167/Alexus167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
