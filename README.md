@@ -1,5 +1,5 @@
 ### Hi, I'm Alex 👋
-![](https://user-images.githubusercontent.com/46390937/120038829-3ea97200-bfda-11eb-8978-17d40b475415.jpg)
+![](https://user-images.githubusercontent.com/46390937/121646572-d8a5fb80-ca6b-11eb-85c1-3e11062395a8.png)
 
 ### Connect with me on <a href="https://www.linkedin.com/in/alxmendez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
