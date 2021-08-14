@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning ReactJS 
 
-🔭 I’m currently working on ### Cryptozador ### is a web application in ReactJS to quote cryptocurrencies ✨
+🔭 I’m currently working on [Cryptozador](https://github.com/Alexus167/cryptozador) is a web application in ReactJS to quote cryptocurrencies ✨
 
 <!--
 **Alexus167/Alexus167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
