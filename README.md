@@ -3,9 +3,9 @@
 
 ### Connect with me on <a href="https://www.linkedin.com/in/alxmendez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-🌱 I’m currently learning ReactJS 
+🌱 I’m currently learning GCP 
 
-🔭 I’m currently working on [Cryptozador](https://github.com/Alexus167/cryptozador) is a web application in ReactJS to quote cryptocurrencies ✨
+🔭 I’m currently working on [RadioBonni](https://github.com/Alexus167/radioBonni) is a Live audio and music streaming platform ✨
 
 <!--
 **Alexus167/Alexus167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
